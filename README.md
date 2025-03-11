@@ -66,9 +66,6 @@ The project primarily implements **SARIMA** (Seasonal AutoRegressive Integrated 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 For any inquiries or collaborations, contact:
 - **Nishat Jillani**
